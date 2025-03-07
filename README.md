@@ -1,7 +1,6 @@
 # AI-Web-App-Python
 
 This repository contains Project-Apps developed by me using streamlit framework in python. 
----
 # **Streamlit Web Apps by Faizan Saleem Siddiqui**  
 
 ## **📌 About Me**  
