@@ -1,7 +1,8 @@
-# AI-Web-App-Python
 
-This repository contains Project-Apps developed by me using streamlit framework in python. 
-## **Streamlit Web Apps by Faizan Saleem Siddiqui**  
+
+This repository contains Project-Apps developed by me using streamlit framework in python. # Electronics-Engineering-Projects
+
+# **Streamlit Web Apps by Faizan Saleem Siddiqui**  
 
 ## **📌 About Me**  
 Hello! I'm **Faizan Saleem Siddiqui**, an experienced **Electronics Engineer, AI/ML Researcher & Engineer, and Freelance Developer** with a passion for **building innovative web applications** using Python and Streamlit. I specialize in **data engineering, machine learning, and web app development**. With expertise in **automation, data visualization, and NLP**, I create intuitive and efficient apps for businesses and individuals.  
